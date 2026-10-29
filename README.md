@@ -3,7 +3,6 @@
   <p><strong>CYFARE's Android Optimizer Plus</strong></p>
   <p>Make Android feel faster, cleaner, and more private — no root required.</p>
 
-  <a href="https://github.com/CYFARE/CAOP/actions/workflows/tests.yml"><img src="https://github.com/CYFARE/CAOP/actions/workflows/tests.yml/badge.svg" alt="Tests"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white" alt="Python 3.8+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT license"></a>
   <img src="https://img.shields.io/badge/Root-Not%20Required-blueviolet" alt="No root required">
